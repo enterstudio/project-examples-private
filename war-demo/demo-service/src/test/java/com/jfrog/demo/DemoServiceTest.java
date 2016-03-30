@@ -11,6 +11,6 @@ public class DemoServiceTest {
 
     @Test
     public void main() throws Exception {
-
+        DemoService.main(new String[0]);
     }
 }

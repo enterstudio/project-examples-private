@@ -9,6 +9,6 @@ public class DemoApiTest {
 
     @org.junit.Test
     public void main() throws Exception {
-
+        DemoApi.main(new String[0]);
     }
 }
