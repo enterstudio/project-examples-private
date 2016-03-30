@@ -2,5 +2,6 @@
 *.iws
 *.iml
 .idea
+.repository
 war-demo/target
 war-demo/*/target
